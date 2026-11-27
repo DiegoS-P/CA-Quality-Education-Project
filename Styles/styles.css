@@ -1,0 +1,41 @@
+/*CSS Stylesheet*/
+
+.row-nav{
+	color: #222226;
+	background-color: #c5192d;
+}
+
+.author-card{
+	max-width: 350px;
+}
+.main{
+	padding: 10px;
+	color: #222226;
+	background-color: #faf6ee;
+}
+
+.card{
+	background-color: inherit;
+	color: #222226;
+	border-radius:12px;
+	border: 2px solid #ddd
+}
+
+.card-img-top{
+	border-radius: 8px;
+}
+.content-img{
+	padding: 5px;
+	width: 95%; 
+	height: auto;
+}
+
+.col-header{
+	text-align: center;
+}
+
+.footer{
+	text-align: center;
+	color: #222226;
+	background-color: #c5192d;
+}
